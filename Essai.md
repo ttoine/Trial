@@ -20,5 +20,27 @@ Before going further, log in and retrieve the corresponding cookie. You can do i
     code, ligne 1
     ligne 2 sudo blabla
 
-Essai de lien vers readme.md:
+Essai 1 de lien vers readme.md:
 https://github.com/ttoine/Trial/blob/master/README.md
+
+[Essai 2 de lien vers readme.md](https://github.com/ttoine/Trial/blob/master/README.md)
+
+- Ceci est une liste
+- ce ceci est une deuxième ligne
+-   ceci est une sous liste
+- ceci est une autre ligne
+
+1. essai
+2. essai
+3. essai
+
+Et voici une image, ici hébergée sur Imgur mais facilement hébergeable sur Github si besoin:
+![une main colorée](http://blog.ttoine.net/files/2012/05/main-1000x1000px.png "Title")
+
+Bref, voilà voilà.
+
+Et comme il est possible de configurer un Cname sur Github, on laisse les gens faire la doc directement dessus, en leur demandant d'utiliser des fichiers .md (markdown).
+
+J'ai aussi vu des exemples de sites complets hébergés sur github, avec des fichiers html, grâce à cette technique:
+https://help.github.com/articles/setting-up-a-custom-domain-with-pages
+
