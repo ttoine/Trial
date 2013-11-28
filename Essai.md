@@ -21,4 +21,4 @@ Before going further, log in and retrieve the corresponding cookie. You can do i
     ligne 2 sudo blabla
 
 Essai de lien vers readme.md:
-[https://github.com/ttoine/Trial/blob/master/README.md]
+https://github.com/ttoine/Trial/blob/master/README.md
