@@ -1,20 +1,20 @@
 Essai
 =====
 
-This tutorial shows how to use the web REST API provided by Bonita BPM 6 in order to create new accounts in Python. You need to have a working Bonita BPM 6 to test the code below. This can be done with Bonita BPM Studio after deploying Bonita BPM Portal. This example is run on a Linux distribution (Ubuntu 12.04 LTS). The official documentation is available here http://documentation.bonitasoft.com/web-rest-api Note: I'm not a Python developer and there are always many ways to accomplish the same thing. Don't hesitate to improve this example!
+This is just to test stuff with GitHub. You will not find any code here.
 
-Useful modules
+List of stuff
 --------------
 
-The following Python modules will be helpful:
+This is some text:
 
-argparse
-httplib2
-json
-urllib
-Authentication
+pspkjpzdojf
+sdkujpoie
+spoupos
+usdfsd
+Asdfsdfdd
 
-Before going further, log in and retrieve the corresponding cookie. You can do it this way:
+Below are some code, you can do it this way:
 
 
     code, ligne 1
@@ -41,6 +41,5 @@ Bref, voilà voilà.
 
 Et comme il est possible de configurer un Cname sur Github, on laisse les gens faire la doc directement dessus, en leur demandant d'utiliser des fichiers .md (markdown).
 
-J'ai aussi vu des exemples de sites complets hébergés sur github, avec des fichiers html, grâce à cette technique:
-https://help.github.com/articles/setting-up-a-custom-domain-with-pages
+Il est aussi possible d'héberger des sites statiques complets sur les GitHub Pages, en les générant par exemple avec Hugo.
 
