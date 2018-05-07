@@ -1,5 +1,5 @@
 ---
-name: Support question
+name: "\U0001F917 Support question"
 about: Please use the Forum, Gitter or Stack Overflow
 
 ---
