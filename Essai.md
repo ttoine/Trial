@@ -3,6 +3,10 @@ Essai
 
 This is just to test stuff with GitHub. You will not find any code here.
 
+Testing how to close an issue
+------------------------------
+Editing this file will create a PR. When I will merge and close the PR, I will use a comment to close Issue 8
+
 List of stuff
 --------------
 
